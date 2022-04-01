@@ -1,2 +1,2 @@
 # fakku-viewer-releases
-Closed source (for now) release builds for my totally legit Fakku reader program that was coincidentally uploaded on April 1
+Release builds for my closed source (for now) totally legit Fakku reader program that was coincidentally uploaded on April 1
